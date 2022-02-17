@@ -1,0 +1,44 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/powder_snow_outline.png",
+            "ascent": 7,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/pumpkinblur.png",
+            "ascent": 7,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/spyglass_scope.png",
+            "ascent": 7,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/unknown_pack.png",
+            "ascent": 7,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/unknown_server.png",
+            "ascent": 7,
+            "chars": [
+                "\uE004"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/toasts.png",
+            "ascent": 7,
+            "chars": [
+                "\uE000\uE001\uF000",
+                "\uE002\uE003\uF001",
+                "\uE004\uE005\uF002",
+                "\uE006\uE007\uF003",
+                "\uE008\uE009\uF004",
+                "\uF005\uF006\uF007",
+                "\uF008\uF009\uF00A",
+                "\uF00B\uF00C\uF00D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/stream_indicator.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00A",
+                "\uE00B",
+                "\uE00C",
+                "\uE00D"
+
+            ]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:mcbackspace.ttf",
+            "shift": [0.0, 0.0],
+            "size": 1.0,
+            "oversample": 1.0,
+            "skip": ""
+        }
+    ]
+}

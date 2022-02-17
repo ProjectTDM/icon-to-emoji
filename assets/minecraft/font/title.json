@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/title/mojangstudios.png",
+            "ascent": 7,
+            "chars": [
+                "\uE000\uE001",
+                "\uE002\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/title/edition.png",
+            "ascent": 7,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:mcbackspace.ttf",
+            "shift": [0.0, 0.0],
+            "size": 1.0,
+            "oversample": 1.0,
+            "skip": ""
+        }
+    ]
+}

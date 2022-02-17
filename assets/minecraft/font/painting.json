@@ -1,0 +1,220 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/alban.png",
+            "ascent": 7,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/aztec.png",
+            "ascent": 7,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/aztec2.png",
+            "ascent": 7,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/back.png",
+            "ascent": 7,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/bomb.png",
+            "ascent": 7,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/burning_skull.png",
+            "ascent": 7,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/bust.png",
+            "ascent": 7,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/courbet.png",
+            "ascent": 7,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/creebet.png",
+            "ascent": 7,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/donkey_kong.png",
+            "ascent": 7,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/fighters.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/graham.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/kebab.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/match.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/pigscene.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/plant.png",
+            "ascent": 7,
+            "chars": [
+                "\uE00F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/pointer.png",
+            "ascent": 7,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/pool.png",
+            "ascent": 7,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/sea.png",
+            "ascent": 7,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/skeleton.png",
+            "ascent": 7,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/skull_and_roses.png",
+            "ascent": 7,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/stage.png",
+            "ascent": 7,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/sunset.png",
+            "ascent": 7,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/void.png",
+            "ascent": 7,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/wanderer.png",
+            "ascent": 7,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/wasteland.png",
+            "ascent": 7,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:painting/wither.png",
+            "ascent": 7,
+            "chars": [
+                "\uE01A"
+            ]
+        }
+    ]
+}
