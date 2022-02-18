@@ -9,10 +9,10 @@
                 "\uE002\uE003\uF001",
                 "\uE004\uE005\uF002",
                 "\uE006\uE007\uF003",
-                "\uE008\uE009\uF004",
-                "\uF005\uF006\uF007",
-                "\uF008\uF009\uF00A",
-                "\uF00B\uF00C\uF00D"
+                "\uF004\uF005\uF006",
+                "\uF007\uF008\uF009",
+                "\uF00A\uF00B\uF00C",
+                "\uF00D\uF00E\uF00F"
             ]
         },
         {
@@ -20,11 +20,10 @@
             "file": "minecraft:gui/stream_indicator.png",
             "ascent": 7,
             "chars": [
+                "\uE008",
+                "\uE009",
                 "\uE00A",
-                "\uE00B",
-                "\uE00C",
-                "\uE00D"
-
+                "\uE00B"
             ]
         },
         {
