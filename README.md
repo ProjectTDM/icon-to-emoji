@@ -1,6 +1,6 @@
 # マイクラの(一部の)アイコンを絵文字として利用できるデータパック [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tunakaniri/minecraft-icon-to-emoji)
 ![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.18.1-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange)
-![image](https://user-images.githubusercontent.com/55052380/154667816-028f4343-9e0e-41a5-89f0-484c6756000e.png)
+![image](https://user-images.githubusercontent.com/55052380/154680449-9e96c0d4-9496-450d-b512-67931a886cdd.png)
 ## このリソースパックのここがすごい！
 - アイコンをリソースパック内に入れずに絵文字として表示しているので軽く、バニラテクスチャだけでなく利用しているテクスチャのアイコンが使える！
 - fontを指定できればマイクラ内のどこでも使える！
