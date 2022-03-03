@@ -7,4 +7,4 @@
 - Ai-Akaishiさん作の[MCBackSpaceフォント](https://github.com/Ai-Akaishi/HighQualityImageLoadingSample)を使っているので絵文字間の微妙な間が詰められる！(デフォルトではguiとtitleのみ)
 ## 使い方(tellrawの場合)
 /tellraw @s {"text":"(ここに使いたい絵文字)","font":"(ここに使いたいフォント)"}
-### それぞれのフォント詳細は、[wiki](../../wiki)に
+### それぞれのフォント詳細は、[wiki](../../wiki/絵文字一覧)に
