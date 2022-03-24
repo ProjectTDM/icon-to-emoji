@@ -5,6 +5,8 @@
 - アイコンをリソースパック内に入れずに絵文字として表示しているので軽く、バニラテクスチャだけでなく利用しているテクスチャのアイコンが使える！
 - fontを指定できればマイクラ内のどこでも使える！
 - Ai-Akaishiさん作の[MCBackSpaceフォント](https://github.com/Ai-Akaishi/HighQualityImageLoadingSample)を使っているので絵文字間の微妙な間が詰められる！(デフォルトではguiとtitleのみ)
+## 謝辞
+このリソースパックは[赤石 愛](https://github.com/Ai-Akaishi)さん作の[MCBackSpaceフォント](https://github.com/Ai-Akaishi/HighQualityImageLoadingSample)を利用させていただいております。
 ## 使い方(tellrawの場合)
 /tellraw @s {"text":"(ここに使いたい絵文字)","font":"(ここに使いたいフォント)"}
 ### それぞれのフォント詳細は、[wiki](../../wiki/絵文字一覧)に
