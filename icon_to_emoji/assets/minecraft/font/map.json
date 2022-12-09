@@ -1,26 +1,26 @@
 {
-    "providers": [
+    "providers":[
         {
-            "type": "bitmap",
-            "file": "minecraft:map/map_background.png",
-            "ascent": 7,
-            "chars": [
+            "type":"bitmap",
+            "file":"map/map_background.png",
+            "ascent":7,
+            "chars":[
                 "\uE000"
             ]
         },
         {
-            "type": "bitmap",
-            "file": "minecraft:map/map_background_checkerboard.png",
-            "ascent": 7,
-            "chars": [
+            "type":"bitmap",
+            "file":"map/map_background_checkerboard.png",
+            "ascent":7,
+            "chars":[
                 "\uE001"
             ]
         },
         {
-            "type": "bitmap",
-            "file": "minecraft:map/map_icons.png",
-            "ascent": 7,
-            "chars": [
+            "type":"bitmap",
+            "file":"map/map_icons.png",
+            "ascent":7,
+            "chars":[
                 "\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\uE00F\uE010\uE011",
                 "\uE012\uE013\uE014\uE015\uE016\uE017\uE018\uE019\uE01A\uE01B\uE01C\uF000\uF001\uF002\uF003\uF004",
                 "\uF005\uF006\uF007\uF008\uF009\uF00A\uF00B\uF00C\uF00D\uF00E\uF00F\uF010\uF011\uF012\uF013\uF014",
