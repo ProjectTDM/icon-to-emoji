@@ -1,10 +1,11 @@
 # Icon to Emoji <!-- ![ダウンロード数](https://img.shields.io/github/downloads/tunakaniri/icon-to-emoji/total) -->
-![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.3-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange) 
+![マイクラバージョン](https://img.shields.io/badge/Minecraft%20Ver-Java%201.17~1.19.4-brightgreen) ![タイプ](https://img.shields.io/badge/Type-resourcepack-orange) 
 ![screenshot](https://user-images.githubusercontent.com/55052380/225591766-49cb922e-5149-4c12-97dd-16d5b537d932.png)
 
 - ~v1.0.0 1.17版
 - v1.1.0~ 1.19, 1.19.2版
 - v1.1.1~ 1.19.3版
+- v1.2.1~ 1.19.4版
 
 ## このリソースパックのここがすごい！
 - アイコンをリソースパック内に入れずに絵文字として表示しているので軽く、バニラテクスチャだけでなく利用しているテクスチャのアイコンが使える！
