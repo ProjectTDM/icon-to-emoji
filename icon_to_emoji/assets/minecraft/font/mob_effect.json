@@ -34,7 +34,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/dolphins_grace.png",
+            "file":"mob_effect/darkness.png",
             "ascent":7,
             "chars":[
                 "\uE004"
@@ -42,7 +42,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/fire_resistance.png",
+            "file":"mob_effect/dolphins_grace.png",
             "ascent":7,
             "chars":[
                 "\uE005"
@@ -50,7 +50,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/glowing.png",
+            "file":"mob_effect/fire_resistance.png",
             "ascent":7,
             "chars":[
                 "\uE006"
@@ -58,7 +58,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/haste.png",
+            "file":"mob_effect/glowing.png",
             "ascent":7,
             "chars":[
                 "\uE007"
@@ -66,7 +66,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/health_boost.png",
+            "file":"mob_effect/haste.png",
             "ascent":7,
             "chars":[
                 "\uE008"
@@ -74,7 +74,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/hero_of_the_village.png",
+            "file":"mob_effect/health_boost.png",
             "ascent":7,
             "chars":[
                 "\uE009"
@@ -82,7 +82,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/hunger.png",
+            "file":"mob_effect/hero_of_the_village.png",
             "ascent":7,
             "chars":[
                 "\uE00A"
@@ -90,7 +90,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/instant_damage.png",
+            "file":"mob_effect/hunger.png",
             "ascent":7,
             "chars":[
                 "\uE00B"
@@ -98,7 +98,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/instant_health.png",
+            "file":"mob_effect/instant_damage.png",
             "ascent":7,
             "chars":[
                 "\uE00C"
@@ -106,7 +106,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/invisibility.png",
+            "file":"mob_effect/instant_health.png",
             "ascent":7,
             "chars":[
                 "\uE00D"
@@ -114,7 +114,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/jump_boost.png",
+            "file":"mob_effect/invisibility.png",
             "ascent":7,
             "chars":[
                 "\uE00E"
@@ -122,7 +122,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/levitation.png",
+            "file":"mob_effect/jump_boost.png",
             "ascent":7,
             "chars":[
                 "\uE00F"
@@ -130,7 +130,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/luck.png",
+            "file":"mob_effect/levitation.png",
             "ascent":7,
             "chars":[
                 "\uE010"
@@ -138,7 +138,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/mining_fatigue.png",
+            "file":"mob_effect/luck.png",
             "ascent":7,
             "chars":[
                 "\uE011"
@@ -146,7 +146,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/nausea.png",
+            "file":"mob_effect/mining_fatigue.png",
             "ascent":7,
             "chars":[
                 "\uE012"
@@ -154,7 +154,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/night_vision.png",
+            "file":"mob_effect/nausea.png",
             "ascent":7,
             "chars":[
                 "\uE013"
@@ -162,7 +162,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/poison.png",
+            "file":"mob_effect/night_vision.png",
             "ascent":7,
             "chars":[
                 "\uE014"
@@ -170,7 +170,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/regeneration.png",
+            "file":"mob_effect/poison.png",
             "ascent":7,
             "chars":[
                 "\uE015"
@@ -178,7 +178,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/resistance.png",
+            "file":"mob_effect/regeneration.png",
             "ascent":7,
             "chars":[
                 "\uE016"
@@ -186,7 +186,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/saturation.png",
+            "file":"mob_effect/resistance.png",
             "ascent":7,
             "chars":[
                 "\uE017"
@@ -194,7 +194,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/slow_falling.png",
+            "file":"mob_effect/saturation.png",
             "ascent":7,
             "chars":[
                 "\uE018"
@@ -202,7 +202,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/slowness.png",
+            "file":"mob_effect/slow_falling.png",
             "ascent":7,
             "chars":[
                 "\uE019"
@@ -210,7 +210,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/speed.png",
+            "file":"mob_effect/slowness.png",
             "ascent":7,
             "chars":[
                 "\uE01A"
@@ -218,7 +218,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/strength.png",
+            "file":"mob_effect/speed.png",
             "ascent":7,
             "chars":[
                 "\uE01B"
@@ -226,7 +226,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/unluck.png",
+            "file":"mob_effect/strength.png",
             "ascent":7,
             "chars":[
                 "\uE01C"
@@ -234,7 +234,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/water_breathing.png",
+            "file":"mob_effect/unluck.png",
             "ascent":7,
             "chars":[
                 "\uE01D"
@@ -242,7 +242,7 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/weakness.png",
+            "file":"mob_effect/water_breathing.png",
             "ascent":7,
             "chars":[
                 "\uE01E"
@@ -250,10 +250,18 @@
         },
         {
             "type":"bitmap",
-            "file":"mob_effect/wither.png",
+            "file":"mob_effect/weakness.png",
             "ascent":7,
             "chars":[
                 "\uE01F"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"mob_effect/wither.png",
+            "ascent":7,
+            "chars":[
+                "\uE020"
             ]
         }
     ]
